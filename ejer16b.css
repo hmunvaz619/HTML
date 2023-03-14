@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "Mystery Quest";
+    src: url(imagenes/MysteryQuest-Regular.ttf);
+}
+.fuente{
+    font-family: "Mystery Quest";
+    font-size: 150%;
+}

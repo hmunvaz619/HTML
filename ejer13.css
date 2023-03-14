@@ -1,0 +1,40 @@
+.p1{
+    border: 4px solid;
+    border-color: red;
+}
+.p2{
+    border: 2px solid;
+    border-color:blue;
+}
+.p3{
+    border: 2px solid;
+    border-color: yellow;
+    border-style: dotted;
+}
+.p4{
+    border: 5px solid;
+    border-style: dotted;
+    border-top-color: red;
+    border-left-color: yellow;
+    border-right-color: green;
+    border-bottom-color: blue;
+}
+.p5{
+    border: 10px solid;
+    border-color: black;
+    border-style: double;
+    border-width: 10px solid;
+}
+.p6{
+    border:2px solid;
+    border-color: black;
+    border-style: double;
+    border-width: 5px;
+}
+.p7{
+    border-color: black;
+    border-top: 2px solid;
+    border-left: 15px solid;
+    border-right: 10px solid;
+    border-bottom: 5px solid;
+}

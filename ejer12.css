@@ -1,0 +1,16 @@
+
+    .class1 { 
+        background-image : url("casa.jpg"); 
+        padding-bottom: 5%;
+        padding-top: 5%;
+        background-size: auto;
+        
+    } 
+    .class2{
+        background-image: url("casa.jpg");
+        padding-bottom: 5%;
+        padding-top: 5%;
+        background-size: 300px 100px;
+        background-repeat: no-repeat;
+    }
+    

@@ -1,0 +1,8 @@
+body{
+    background-image: url(imagenes/ovejacss.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+.p1{
+    color: red;
+}

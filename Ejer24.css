@@ -1,0 +1,14 @@
+.div1{
+    background-color: rgb(95, 95, 95);
+    max-width: 1700px;
+    padding: 500px 0;
+    
+    left: 50px;
+}
+
+.div2{
+    background-color: rgb(180, 180, 180);
+    position: fixed;
+    
+    right: 50px;
+}

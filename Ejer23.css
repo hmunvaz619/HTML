@@ -1,0 +1,11 @@
+div{
+    border: solid black 2px;
+}
+
+.div{
+    position: fixed;
+    left: 50px;
+    top: 30px;
+    background-color: rgb(163, 163, 163);
+    
+}

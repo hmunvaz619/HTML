@@ -1,0 +1,41 @@
+h1{
+    margin: auto;
+    width: max-content;
+    border: 1px solid;
+    border-color: grey;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(184, 184, 184);
+    font-weight: bold;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: small;
+    background-color: rgb(255, 205, 214);
+}
+.p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-transform: uppercase;
+    background-color: rgb(245, 230, 16);
+    word-spacing: 10px;
+    line-height: 25px;
+}
+sub{
+    text-decoration: underline;
+}
+.p3{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darksalmon;
+    font-size: larger;
+    word-spacing: 7px;
+    letter-spacing: 3px;
+    text-align: right;
+}
+.p4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    word-spacing: 10px;
+    line-height: 8px;
+}

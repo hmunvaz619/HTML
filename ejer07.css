@@ -1,0 +1,14 @@
+#p1 {
+    background-color: rgb(70, 70, 70);
+    color: white;
+}
+
+#p2 {
+    background-color: rgba(60, 220, 110, 0.3);
+    color: rgb(40, 104, 233);
+}
+
+#p3 {
+    background-color: rgba(255, 200, 0, 0.3);
+    color: blue;
+}

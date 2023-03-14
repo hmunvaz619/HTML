@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap');
+
+@font-face{
+    font-family: "Mystery Quest", cursive;
+    src: url("mystery-quest.woff2");
+}
+p{
+    font-family: "Mystery Quest";
+    font-size: 150;
+}

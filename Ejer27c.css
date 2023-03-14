@@ -1,0 +1,42 @@
+.encabezado{
+    background-color: rgb(213, 255, 174);
+    text-align: center;
+    border: 3px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+}
+
+.bloque1{
+    background-color: rgb(213, 255, 174);
+    border: 3px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 17px;
+    
+}
+
+.bloque2{
+    background-color: rgb(213, 255, 174);
+    border: 3px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 17px;
+}
+
+.bloque3{
+    background-color: rgb(213, 255, 174);
+    border: 3px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 17px;
+}
+
+.img1{
+    background-image: url(pngegg.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    float: left;
+    float: right;
+
+}

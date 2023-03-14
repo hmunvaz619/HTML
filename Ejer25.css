@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to bottom right, yellow, black);
+    background-attachment: fixed;
+  }
+  
+  .boxblue{
+    background-color: blue;
+    color: white;
+    border: 5px solid black;
+    border-radius: 70px;
+    padding: 25px;
+    margin-right: 300px;
+    background-image: url(moto.jpg);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: right;
+  }
+  
+  .blackbox{
+    background-color: black;
+    color: gray;
+    border: 6px solid gray;
+    border-radius: 20px;
+    padding: 13px;
+    margin-right: 600px;
+    background-image: url(moto.jpg);
+    background-repeat: repeat-y;
+    background-size: 100px;
+    background-position: left;
+  }
+  
+  .greybox{
+    background-color: grey;
+    color: black;
+    border: 6px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin-right: 800px;
+    background-image: url(moto.jpg);
+    background-size: 100px;
+    background-position: left;
+    background-repeat: repeat-x;
+  }
